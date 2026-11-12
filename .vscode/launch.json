@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar CRUD Alumnos",
+            "request": "launch",
+            "mainClass": "ejerBD.Principal",
+            "console": "integratedTerminal"
+        }
+    ]
+}
